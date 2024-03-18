@@ -1,0 +1,39 @@
+
+    
+body { 
+            background: url('./background2.jpg') no-repeat center center fixed; 
+            -webkit-background-size: cover;
+            -moz-background-size: cover;
+            -o-background-size: cover;
+            background-size: cover;
+        }
+
+
+.summary {color: white;
+        font-family: "Libre Baskerville", serif;
+        text-align: center;}
+
+.summarycont {color: white; font-size: 20px;
+        font-size: 15px;
+        font-family: "Libre Baskerville", serif;
+        text-align: center;}
+
+h1 {color: white;
+        font-family: "Libre Baskerville", serif;
+        text-align: center;}
+
+
+
+.micara
+        {display: block;
+        margin-left: auto;
+        margin-right: auto;
+        border: 5px solid white;
+        width: 35%;
+        }
+
+
+.piedepagina {color: white; font-size: 20px; font-size: 10px;
+        font-family: "Libre Baskerville", serif;
+        text-align: center;}
+    
