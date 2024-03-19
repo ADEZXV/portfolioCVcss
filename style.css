@@ -13,10 +13,18 @@ body {
         font-size: 25px;
 }
 
-.first-paragraph .second-paragraph {color: white;
+.first-paragraph {
+        color: white;
         font-size: 25px;
         font-family: "Libre Baskerville", serif;
         text-align: justify;}
+
+.second-paragraph {
+        color: white;
+        font-size: 25px;
+        font-family: "Libre Baskerville", serif;
+        text-align: justify;}
+
 
 h1 {color: white;
         font-family: "Libre Baskerville", serif;
