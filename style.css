@@ -7,33 +7,43 @@ body {
             -o-background-size: cover;
             background-size: cover;
         }
+.poster {
+        color: white;
+        float: left;
+        font-size: 25px;
+}
 
-
-.summary {color: white;
+.first-paragraph .second-paragraph {color: white;
+        font-size: 25px;
         font-family: "Libre Baskerville", serif;
-        text-align: center;}
-
-.summarycont {color: white; font-size: 20px;
-        font-size: 15px;
-        font-family: "Libre Baskerville", serif;
-        text-align: center;}
+        text-align: justify;}
 
 h1 {color: white;
         font-family: "Libre Baskerville", serif;
         text-align: center;}
 
+div {
+        display: inline-block;
+                width: 100%;
+              }
 
 
 .micara
-        {display: block;
+        {display: flex;
         margin-left: auto;
         margin-right: auto;
         border: 5px solid white;
-        width: 35%;
+        width: 25%;
+        float: left;
+        
+
         }
 
 
-.piedepagina {color: white; font-size: 20px; font-size: 10px;
+.piedepagina {color: white; font-size: 15px; 
         font-family: "Libre Baskerville", serif;
         text-align: center;}
     
+h3 {
+        list-style: none;
+}
