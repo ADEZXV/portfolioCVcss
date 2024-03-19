@@ -7,23 +7,13 @@ body {
             -o-background-size: cover;
             background-size: cover;
         }
+        
 .poster {
         color: white;
         float: left;
         font-size: 25px;
 }
 
-.first-paragraph {
-        color: white;
-        font-size: 25px;
-        font-family: "Libre Baskerville", serif;
-        text-align: justify;}
-
-.second-paragraph {
-        color: white;
-        font-size: 25px;
-        font-family: "Libre Baskerville", serif;
-        text-align: justify;}
 
 
 h1 {color: white;
